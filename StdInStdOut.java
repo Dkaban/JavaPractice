@@ -3,7 +3,7 @@
 // Read in an int, a double and a string and print them out.
 // Remember: Reading an int using scan and then a string stays on the int line so it would return a blank.
 // Solution Created By: Dustin Kaban
-// Date: June 5th, 2020
+// Date: June 9th, 2020
 // ***************************
 
 import java.util.Scanner;
