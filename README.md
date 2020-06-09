@@ -1,0 +1,2 @@
+# JavaPractice
+This is a repo to hold all of my Java practice scripts.
