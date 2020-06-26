@@ -1,4 +1,3 @@
-  
 // THE PROBLEM
 // ***************************
 // If-Else practice.
