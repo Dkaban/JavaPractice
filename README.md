@@ -5,6 +5,7 @@ Completing Challenges available at https://www.hackerrank.com/domains/java
 
 ## Contains
 *In Order of Most Recent to Oldest*
+- DayOfWeek.java
 - IntToString.java
 - EndOfFile.java
 - DataTypes.java
