@@ -5,6 +5,7 @@ Completing Challenges available at https://www.hackerrank.com/domains/java
 
 ## Contains
 *In Order of Most Recent to Oldest*
+- EndOfFile.java
 - DataTypes.java
 - JavaLoopsTwo.java
 - JavaLoops.java
